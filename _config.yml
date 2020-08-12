@@ -1,6 +1,10 @@
-title: Tailwind Jekyll Starter Kit
-description: A starter kit for using Tailwind with Jekyll
-
+title: Harper Lourenço
+description: Helena Lourenço
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 exclude:
   - Gemfile
   - Gemfile.lock
